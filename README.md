@@ -14,16 +14,6 @@ The SNAP Standard Library provides essential **unit generators (UGens)** for syn
 
 ---
 
-## Directory Structure
-snap-stdlib/
-├── include/
-│ ├── osc.h
-│ ├── filter.h
-│ └── envelope.h
-├── CMakeLists.txt
-└── examples/
-└── test.cpp
-
 ## Notes
 
 - All code is C++03-compliant for maximum portability.
